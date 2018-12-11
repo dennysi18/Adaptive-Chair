@@ -1,7 +1,7 @@
 # Adaptive Chair
 
 ## Purpose
-The adaptive chair is designed for people who are unable to use a normal chair for everyday purpose. People with spinal disorders, limb limitations, Cerebral Palsy, and related issues.
+The adaptive chair is designed for people who are unable to use a normal chair for everyday purpose. The chair could be designed for people with spinal disorders, limb limitations, Cerebral Palsy, and related issues.
 
 ![Adaptive-Chair](Images/Photo.jpg)
 
